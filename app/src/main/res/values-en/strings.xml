@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desafio-depurando-apps-Dio</string>
+    <string name="hello_dio">Hello world Dio! This is my first internationalized application!</string>
+</resources>
